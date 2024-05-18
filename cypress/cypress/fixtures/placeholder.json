@@ -1,0 +1,22 @@
+{
+    "productTitle": "Nokia Lumia 1020",
+    "itemQuantity":2,
+    "shoppingCartTitle": "Shopping cart",
+    "firstName": "billing",
+    "lastName": "Test",
+    "Email": "Test@gmail.com",
+    "Company": "TestCompany",
+    "Country": "Bangladesh",
+    "State": "Other",
+    "City": "Dhaka",
+    "Address1": "Dhaka",
+    "zipCode": "1212",
+    "phoneNumber": "88012345678910",
+    "faxNumber": "Check123",
+    "creditCard": "Visa",
+    "cardholderName" : "Company",
+    "cardNumber": "4242424242424242",
+    "expirationYear": "2025",
+    "cardCode":"123",
+    "orderConfirmationText": "Your order has been successfully processed!"
+}
